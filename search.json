@@ -1,0 +1,2290 @@
+[
+  {
+    "modelScores": {
+      "relevance_score": {
+        "values": [
+          0.7
+        ]
+      }
+    },
+    "id": "4bd31da43e2cfdcdfa468087c9016dc7",
+    "document": {
+      "name": "projects/79005562778/locations/global/collections/default_collection/dataStores/genesis-g80-manual_1743645284160_gcs_store/branches/0/documents/4bd31da43e2cfdcdfa468087c9016dc7",
+      "id": "4bd31da43e2cfdcdfa468087c9016dc7",
+      "schemaId": "",
+      "derivedStructData": {
+        "fields": {
+          "snippets": {
+            "listValue": {
+              "values": [
+                {
+                  "structValue": {
+                    "fields": {
+                      "snippet_status": {
+                        "stringValue": "SUCCESS",
+                        "kind": "stringValue"
+                      },
+                      "snippet": {
+                        "stringValue": "7-41 안전 하차 보조 <b>이상 및 제한 사항</b> . ... 7-47 <b>지능형 속도 제한 이상 및 제한 사항</b>.",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              ]
+            },
+            "kind": "listValue"
+          },
+          "source_type": {
+            "stringValue": "gcs",
+            "kind": "stringValue"
+          },
+          "entity_type": {
+            "stringValue": "gcs_store",
+            "kind": "stringValue"
+          },
+          "link": {
+            "stringValue": "gs://genesis-g80-manual/Owner's_Manual (3).pdf",
+            "kind": "stringValue"
+          },
+          "title": {
+            "stringValue": "RG3_G80 취급설명서",
+            "kind": "stringValue"
+          }
+        }
+      },
+      "parentDocumentId": "",
+      "content": null,
+      "indexTime": null,
+      "indexStatus": null
+    },
+    "chunk": null
+  },
+  {
+    "modelScores": {
+      "relevance_score": {
+        "values": [
+          0.5
+        ]
+      }
+    },
+    "id": "44f97ad7c9686086a942beff8a6bc32c",
+    "document": {
+      "name": "projects/79005562778/locations/global/collections/default_collection/dataStores/genesis-g80-manual_1743645284160_gcs_store/branches/0/documents/44f97ad7c9686086a942beff8a6bc32c",
+      "id": "44f97ad7c9686086a942beff8a6bc32c",
+      "schemaId": "",
+      "derivedStructData": {
+        "fields": {
+          "entity_type": {
+            "stringValue": "gcs_store",
+            "kind": "stringValue"
+          },
+          "snippets": {
+            "listValue": {
+              "values": [
+                {
+                  "structValue": {
+                    "fields": {
+                      "snippet_status": {
+                        "stringValue": "SUCCESS",
+                        "kind": "stringValue"
+                      },
+                      "snippet": {
+                        "stringValue": "... 제어하는 안전 사양을 적용해 매 순간 편안하고 안전한 주행이 되도록 보조합니다. intelligence 03 후측방 충돌방지 보조 일정 <b>속도 이상</b>으로 주행 중에 후측방의&nbsp;...",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              ]
+            },
+            "kind": "listValue"
+          },
+          "link": {
+            "stringValue": "gs://genesis-g80-manual/genesis-g80-catalog-kor-202504.pdf",
+            "kind": "stringValue"
+          },
+          "title": {
+            "stringValue": "genesis-g80-catalog-kor-202504",
+            "kind": "stringValue"
+          },
+          "source_type": {
+            "stringValue": "gcs",
+            "kind": "stringValue"
+          }
+        }
+      },
+      "parentDocumentId": "",
+      "content": null,
+      "indexTime": null,
+      "indexStatus": null
+    },
+    "chunk": null
+  },
+  {
+    "modelScores": {
+      "relevance_score": {
+        "values": [
+          0.5
+        ]
+      }
+    },
+    "id": "756b798d2cef581be6ac6125cde92f01",
+    "document": {
+      "name": "projects/79005562778/locations/global/collections/default_collection/dataStores/genesis-g80-manual_1743645284160_gcs_store/branches/0/documents/756b798d2cef581be6ac6125cde92f01",
+      "id": "756b798d2cef581be6ac6125cde92f01",
+      "schemaId": "",
+      "derivedStructData": {
+        "fields": {
+          "snippets": {
+            "listValue": {
+              "values": [
+                {
+                  "structValue": {
+                    "fields": {
+                      "snippet_status": {
+                        "stringValue": "SUCCESS",
+                        "kind": "stringValue"
+                      },
+                      "snippet": {
+                        "stringValue": "... <b>G80</b> ※ 선택 품목을 포함한 최종 가격은 세제 ... <b>및</b> 성능 가솔린 2.5 터보 엔진, 8단 자동변속기, ISG ... <b>지능형 속도제한</b> 보조, 후진 가이드 램프, 안전 하차&nbsp;...",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              ]
+            },
+            "kind": "listValue"
+          },
+          "entity_type": {
+            "stringValue": "gcs_store",
+            "kind": "stringValue"
+          },
+          "source_type": {
+            "stringValue": "gcs",
+            "kind": "stringValue"
+          },
+          "link": {
+            "stringValue": "gs://genesis-g80-manual/genesis-g80-pricelist-kor-202504.pdf",
+            "kind": "stringValue"
+          },
+          "title": {
+            "stringValue": "genesis-g80-pricelist-kor-202504",
+            "kind": "stringValue"
+          }
+        }
+      },
+      "parentDocumentId": "",
+      "content": null,
+      "indexTime": null,
+      "indexStatus": null
+    },
+    "chunk": null
+  },
+  {
+    "modelScores": {
+      "relevance_score": {
+        "values": [
+          0.1
+        ]
+      }
+    },
+    "id": "10013",
+    "document": {
+      "name": "projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013",
+      "id": "10013",
+      "schemaId": "",
+      "derivedStructData": {
+        "fields": {
+          "entity_type": {
+            "stringValue": "issue",
+            "kind": "stringValue"
+          },
+          "description": {
+            "stringValue": "버그 등록 테스트 이슈",
+            "kind": "stringValue"
+          },
+          "update_age_seconds_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 1747381372.5604968,
+            "kind": "numberValue"
+          },
+          "update_age_months_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 674.1440480557371,
+            "kind": "numberValue"
+          },
+          "update_or_create_time_unix_micros_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": null,
+            "kind": "numberValue"
+          },
+          "source_type": {
+            "stringValue": "jira",
+            "kind": "stringValue"
+          },
+          "url": {
+            "stringValue": "https://iloh.atlassian.net/browse/AIT-3",
+            "kind": "stringValue"
+          },
+          "create_time_unix_micros_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 0,
+            "kind": "numberValue"
+          },
+          "creation_age_days_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 20224.32144167163,
+            "kind": "numberValue"
+          },
+          "age_days_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 20224.32144167163,
+            "kind": "numberValue"
+          },
+          "create_time_unix_micros_fixed_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": null,
+            "kind": "numberValue"
+          },
+          "creation_age_seconds_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 1747381372.560488,
+            "kind": "numberValue"
+          },
+          "update_time_unix_micros_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": null,
+            "kind": "numberValue"
+          },
+          "ucs_creation_age_in_days_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": null,
+            "kind": "numberValue"
+          },
+          "snippets": {
+            "listValue": {
+              "values": [
+                {
+                  "structValue": {
+                    "fields": {
+                      "snippet": {
+                        "stringValue": "No snippet is available for this page.",
+                        "kind": "stringValue"
+                      },
+                      "snippet_status": {
+                        "stringValue": "NO_SNIPPET_AVAILABLE",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              ]
+            },
+            "kind": "listValue"
+          },
+          "title": {
+            "stringValue": "버그 등록 테스트 이슈",
+            "kind": "stringValue"
+          },
+          "create_or_update_age_seconds_aggregator_goog.scubed/?mid=projects/79005562778/locations/global/collections/default_collection/dataStores/jira-cloud-connector_1744875248443_issue/branches/0/documents/10013&scubed_vertical=scubed_cloud_semantic_search:http": {
+            "numberValue": 1747381372.5605056,
+            "kind": "numberValue"
+          }
+        }
+      },
+      "parentDocumentId": "",
+      "content": null,
+      "indexTime": null,
+      "indexStatus": null,
+      "structData": {
+        "fields": {
+          "description": {
+            "stringValue": "버그 등록 테스트 이슈",
+            "kind": "stringValue"
+          },
+          "projectTypeKey": {
+            "stringValue": "software",
+            "kind": "stringValue"
+          },
+          "priorityId": {
+            "stringValue": "3",
+            "kind": "stringValue"
+          },
+          "issueCreatorDisplayName": {
+            "stringValue": "iloh Admin",
+            "kind": "stringValue"
+          },
+          "updatedDate": {
+            "stringValue": "2025-04-17T18:29:14+09:00",
+            "kind": "stringValue"
+          },
+          "id": {
+            "numberValue": 10013,
+            "kind": "numberValue"
+          },
+          "summary": {
+            "stringValue": "버그 등록 테스트 이슈",
+            "kind": "stringValue"
+          },
+          "expand": {
+            "stringValue": "operations,versionedRepresentations,editmeta,changelog,customfield_10010.requestTypePractice,transitions,renderedFields",
+            "kind": "stringValue"
+          },
+          "watchCount": {
+            "numberValue": 1,
+            "kind": "numberValue"
+          },
+          "issueReporterDisplayName": {
+            "stringValue": "iloh Admin",
+            "kind": "stringValue"
+          },
+          "issueCreatorAccountId": {
+            "stringValue": "712020:971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+            "kind": "stringValue"
+          },
+          "self": {
+            "stringValue": "https://iloh.atlassian.net/browse/AIT-3",
+            "kind": "stringValue"
+          },
+          "issueTypeId": {
+            "stringValue": "10013",
+            "kind": "stringValue"
+          },
+          "fields": {
+            "structValue": {
+              "fields": {
+                "customfield_10019": {
+                  "stringValue": "0|i0001z:",
+                  "kind": "stringValue"
+                },
+                "creator": {
+                  "structValue": {
+                    "fields": {
+                      "accountId": {
+                        "stringValue": "712020:971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+                        "kind": "stringValue"
+                      },
+                      "avatarUrls": {
+                        "structValue": {
+                          "fields": {
+                            "16x16": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "32x32": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "24x24": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "48x48": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "displayName": {
+                        "stringValue": "iloh Admin",
+                        "kind": "stringValue"
+                      },
+                      "emailAddress": {
+                        "stringValue": "admin@iloh.altostrat.com",
+                        "kind": "stringValue"
+                      },
+                      "active": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "accountType": {
+                        "stringValue": "atlassian",
+                        "kind": "stringValue"
+                      },
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/user?accountId=712020%3A971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+                        "kind": "stringValue"
+                      },
+                      "timeZone": {
+                        "stringValue": "Asia/Seoul",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "summary": {
+                  "stringValue": "버그 등록 테스트 이슈",
+                  "kind": "stringValue"
+                },
+                "updated": {
+                  "stringValue": "2025-04-17T18:29:14+09:00",
+                  "kind": "stringValue"
+                },
+                "labels": {
+                  "listValue": {
+                    "values": []
+                  },
+                  "kind": "listValue"
+                },
+                "lastViewed": {
+                  "stringValue": "2025-04-18T10:45:14+09:00",
+                  "kind": "stringValue"
+                },
+                "project": {
+                  "structValue": {
+                    "fields": {
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/project/10002",
+                        "kind": "stringValue"
+                      },
+                      "projectTypeKey": {
+                        "stringValue": "software",
+                        "kind": "stringValue"
+                      },
+                      "key": {
+                        "stringValue": "AIT",
+                        "kind": "stringValue"
+                      },
+                      "name": {
+                        "stringValue": "Agentspace issue tracker",
+                        "kind": "stringValue"
+                      },
+                      "avatarUrls": {
+                        "structValue": {
+                          "fields": {
+                            "24x24": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/project/avatar/10425?size=small",
+                              "kind": "stringValue"
+                            },
+                            "16x16": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/project/avatar/10425?size=xsmall",
+                              "kind": "stringValue"
+                            },
+                            "32x32": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/project/avatar/10425?size=medium",
+                              "kind": "stringValue"
+                            },
+                            "48x48": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/project/avatar/10425",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "id": {
+                        "stringValue": "10002",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "priority": {
+                  "structValue": {
+                    "fields": {
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/priority/3",
+                        "kind": "stringValue"
+                      },
+                      "name": {
+                        "stringValue": "Medium",
+                        "kind": "stringValue"
+                      },
+                      "iconUrl": {
+                        "stringValue": "https://iloh.atlassian.net/images/icons/priorities/medium_new.svg",
+                        "kind": "stringValue"
+                      },
+                      "id": {
+                        "stringValue": "3",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "issuelinks": {
+                  "listValue": {
+                    "values": []
+                  },
+                  "kind": "listValue"
+                },
+                "progress": {
+                  "structValue": {
+                    "fields": {
+                      "total": {
+                        "numberValue": 0,
+                        "kind": "numberValue"
+                      },
+                      "progress": {
+                        "numberValue": 0,
+                        "kind": "numberValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "created": {
+                  "stringValue": "2025-04-17T18:29:14+09:00",
+                  "kind": "stringValue"
+                },
+                "status": {
+                  "structValue": {
+                    "fields": {
+                      "iconUrl": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/",
+                        "kind": "stringValue"
+                      },
+                      "id": {
+                        "stringValue": "10007",
+                        "kind": "stringValue"
+                      },
+                      "name": {
+                        "stringValue": "To Do",
+                        "kind": "stringValue"
+                      },
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/status/10007",
+                        "kind": "stringValue"
+                      },
+                      "statusCategory": {
+                        "structValue": {
+                          "fields": {
+                            "key": {
+                              "stringValue": "new",
+                              "kind": "stringValue"
+                            },
+                            "id": {
+                              "numberValue": 2,
+                              "kind": "numberValue"
+                            },
+                            "colorName": {
+                              "stringValue": "blue-gray",
+                              "kind": "stringValue"
+                            },
+                            "name": {
+                              "stringValue": "To Do",
+                              "kind": "stringValue"
+                            },
+                            "self": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/statuscategory/2",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "aggregateprogress": {
+                  "structValue": {
+                    "fields": {
+                      "progress": {
+                        "stringValue": "0",
+                        "kind": "stringValue"
+                      },
+                      "total": {
+                        "stringValue": "0",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "votes": {
+                  "structValue": {
+                    "fields": {
+                      "votes": {
+                        "numberValue": 0,
+                        "kind": "numberValue"
+                      },
+                      "hasVoted": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issue/AIT-3/votes",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "reporter": {
+                  "structValue": {
+                    "fields": {
+                      "displayName": {
+                        "stringValue": "iloh Admin",
+                        "kind": "stringValue"
+                      },
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/user?accountId=712020%3A971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+                        "kind": "stringValue"
+                      },
+                      "active": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "accountId": {
+                        "stringValue": "712020:971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+                        "kind": "stringValue"
+                      },
+                      "avatarUrls": {
+                        "structValue": {
+                          "fields": {
+                            "16x16": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "48x48": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "24x24": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "32x32": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "emailAddress": {
+                        "stringValue": "admin@iloh.altostrat.com",
+                        "kind": "stringValue"
+                      },
+                      "accountType": {
+                        "stringValue": "atlassian",
+                        "kind": "stringValue"
+                      },
+                      "timeZone": {
+                        "stringValue": "Asia/Seoul",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "workratio": {
+                  "numberValue": -1,
+                  "kind": "numberValue"
+                },
+                "customfield_10018": {
+                  "structValue": {
+                    "fields": {
+                      "nonEditableReason": {
+                        "structValue": {
+                          "fields": {
+                            "message": {
+                              "stringValue": "The Parent Link is only available to Jira Premium users.",
+                              "kind": "stringValue"
+                            },
+                            "reason": {
+                              "stringValue": "PLUGIN_LICENSE_ERROR",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "statuscategorychangedate": {
+                  "stringValue": "2025-04-17T18:29:15+09:00",
+                  "kind": "stringValue"
+                },
+                "assignee": {
+                  "structValue": {
+                    "fields": {
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/user?accountId=712020%3A971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+                        "kind": "stringValue"
+                      },
+                      "accountType": {
+                        "stringValue": "atlassian",
+                        "kind": "stringValue"
+                      },
+                      "displayName": {
+                        "stringValue": "iloh Admin",
+                        "kind": "stringValue"
+                      },
+                      "accountId": {
+                        "stringValue": "712020:971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+                        "kind": "stringValue"
+                      },
+                      "timeZone": {
+                        "stringValue": "Asia/Seoul",
+                        "kind": "stringValue"
+                      },
+                      "avatarUrls": {
+                        "structValue": {
+                          "fields": {
+                            "32x32": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "24x24": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "16x16": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            },
+                            "48x48": {
+                              "stringValue": "https://secure.gravatar.com/avatar/013d48ef5665c9636fb09eb8e93d8a39?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-1.png",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "emailAddress": {
+                        "stringValue": "admin@iloh.altostrat.com",
+                        "kind": "stringValue"
+                      },
+                      "active": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "issuetype": {
+                  "structValue": {
+                    "fields": {
+                      "hierarchyLevel": {
+                        "numberValue": 0,
+                        "kind": "numberValue"
+                      },
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issuetype/10013",
+                        "kind": "stringValue"
+                      },
+                      "id": {
+                        "stringValue": "10013",
+                        "kind": "stringValue"
+                      },
+                      "iconUrl": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+                        "kind": "stringValue"
+                      },
+                      "avatarId": {
+                        "numberValue": 10303,
+                        "kind": "numberValue"
+                      },
+                      "description": {
+                        "stringValue": "A problem or error.",
+                        "kind": "stringValue"
+                      },
+                      "name": {
+                        "stringValue": "Bug",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                "watches": {
+                  "structValue": {
+                    "fields": {
+                      "isWatching": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "watchCount": {
+                        "numberValue": 1,
+                        "kind": "numberValue"
+                      },
+                      "self": {
+                        "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issue/AIT-3/watchers",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              }
+            },
+            "kind": "structValue"
+          },
+          "projectKey": {
+            "stringValue": "AIT",
+            "kind": "stringValue"
+          },
+          "issueTypeDescription": {
+            "stringValue": "A problem or error.",
+            "kind": "stringValue"
+          },
+          "issueReporterAccountId": {
+            "stringValue": "712020:971cb582-7f1a-4231-a2dc-4578fe6d2b98",
+            "kind": "stringValue"
+          },
+          "projectName": {
+            "stringValue": "Agentspace issue tracker",
+            "kind": "stringValue"
+          },
+          "issueReporterEmailId": {
+            "stringValue": "admin@iloh.altostrat.com",
+            "kind": "stringValue"
+          },
+          "renderedFields": {
+            "structValue": {
+              "fields": {
+                "updated": {
+                  "stringValue": "Thursday 6:29 PM",
+                  "kind": "stringValue"
+                },
+                "statuscategorychangedate": {
+                  "stringValue": "Thursday 6:29 PM",
+                  "kind": "stringValue"
+                },
+                "lastViewed": {
+                  "stringValue": "Friday 10:45 AM",
+                  "kind": "stringValue"
+                },
+                "created": {
+                  "stringValue": "Thursday 6:29 PM",
+                  "kind": "stringValue"
+                }
+              }
+            },
+            "kind": "structValue"
+          },
+          "projectId": {
+            "stringValue": "10002",
+            "kind": "stringValue"
+          },
+          "issueTypeName": {
+            "stringValue": "Bug",
+            "kind": "stringValue"
+          },
+          "priorityName": {
+            "stringValue": "Medium",
+            "kind": "stringValue"
+          },
+          "issueStatus": {
+            "stringValue": "To Do",
+            "kind": "stringValue"
+          },
+          "createdDate": {
+            "stringValue": "2025-04-17T18:29:14+09:00",
+            "kind": "stringValue"
+          },
+          "uri": {
+            "stringValue": "https://iloh.atlassian.net/browse/AIT-3",
+            "kind": "stringValue"
+          },
+          "issueCreatorEmailId": {
+            "stringValue": "admin@iloh.altostrat.com",
+            "kind": "stringValue"
+          },
+          "transitions": {
+            "listValue": {
+              "values": [
+                {
+                  "structValue": {
+                    "fields": {
+                      "isLooped": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isGlobal": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "isAvailable": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "name": {
+                        "stringValue": "To Do",
+                        "kind": "stringValue"
+                      },
+                      "isInitial": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "id": {
+                        "stringValue": "11",
+                        "kind": "stringValue"
+                      },
+                      "hasScreen": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isConditional": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "to": {
+                        "structValue": {
+                          "fields": {
+                            "id": {
+                              "stringValue": "10007",
+                              "kind": "stringValue"
+                            },
+                            "self": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/status/10007",
+                              "kind": "stringValue"
+                            },
+                            "name": {
+                              "stringValue": "To Do",
+                              "kind": "stringValue"
+                            },
+                            "iconUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/",
+                              "kind": "stringValue"
+                            },
+                            "statusCategory": {
+                              "structValue": {
+                                "fields": {
+                                  "self": {
+                                    "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/statuscategory/2",
+                                    "kind": "stringValue"
+                                  },
+                                  "name": {
+                                    "stringValue": "To Do",
+                                    "kind": "stringValue"
+                                  },
+                                  "colorName": {
+                                    "stringValue": "blue-gray",
+                                    "kind": "stringValue"
+                                  },
+                                  "key": {
+                                    "stringValue": "new",
+                                    "kind": "stringValue"
+                                  },
+                                  "id": {
+                                    "numberValue": 2,
+                                    "kind": "numberValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                {
+                  "structValue": {
+                    "fields": {
+                      "isLooped": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isGlobal": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "name": {
+                        "stringValue": "In Progress",
+                        "kind": "stringValue"
+                      },
+                      "to": {
+                        "structValue": {
+                          "fields": {
+                            "iconUrl": {
+                              "stringValue": "https://iloh.atlassian.net/images/icons/statuses/inprogress.png",
+                              "kind": "stringValue"
+                            },
+                            "description": {
+                              "stringValue": "This issue is being actively worked on at the moment by the assignee.",
+                              "kind": "stringValue"
+                            },
+                            "self": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/status/3",
+                              "kind": "stringValue"
+                            },
+                            "name": {
+                              "stringValue": "In Progress",
+                              "kind": "stringValue"
+                            },
+                            "statusCategory": {
+                              "structValue": {
+                                "fields": {
+                                  "self": {
+                                    "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/statuscategory/4",
+                                    "kind": "stringValue"
+                                  },
+                                  "key": {
+                                    "stringValue": "indeterminate",
+                                    "kind": "stringValue"
+                                  },
+                                  "name": {
+                                    "stringValue": "In Progress",
+                                    "kind": "stringValue"
+                                  },
+                                  "colorName": {
+                                    "stringValue": "yellow",
+                                    "kind": "stringValue"
+                                  },
+                                  "id": {
+                                    "numberValue": 4,
+                                    "kind": "numberValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "id": {
+                              "stringValue": "3",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "hasScreen": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isInitial": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isConditional": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "id": {
+                        "stringValue": "21",
+                        "kind": "stringValue"
+                      },
+                      "isAvailable": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                {
+                  "structValue": {
+                    "fields": {
+                      "to": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "In Review",
+                              "kind": "stringValue"
+                            },
+                            "iconUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/",
+                              "kind": "stringValue"
+                            },
+                            "self": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/status/10008",
+                              "kind": "stringValue"
+                            },
+                            "id": {
+                              "stringValue": "10008",
+                              "kind": "stringValue"
+                            },
+                            "statusCategory": {
+                              "structValue": {
+                                "fields": {
+                                  "colorName": {
+                                    "stringValue": "yellow",
+                                    "kind": "stringValue"
+                                  },
+                                  "id": {
+                                    "numberValue": 4,
+                                    "kind": "numberValue"
+                                  },
+                                  "self": {
+                                    "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/statuscategory/4",
+                                    "kind": "stringValue"
+                                  },
+                                  "name": {
+                                    "stringValue": "In Progress",
+                                    "kind": "stringValue"
+                                  },
+                                  "key": {
+                                    "stringValue": "indeterminate",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "isGlobal": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "isInitial": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "hasScreen": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "id": {
+                        "stringValue": "31",
+                        "kind": "stringValue"
+                      },
+                      "isAvailable": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "isLooped": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isConditional": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "name": {
+                        "stringValue": "In Review",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                },
+                {
+                  "structValue": {
+                    "fields": {
+                      "hasScreen": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isGlobal": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "name": {
+                        "stringValue": "Done",
+                        "kind": "stringValue"
+                      },
+                      "isInitial": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isAvailable": {
+                        "boolValue": true,
+                        "kind": "boolValue"
+                      },
+                      "to": {
+                        "structValue": {
+                          "fields": {
+                            "statusCategory": {
+                              "structValue": {
+                                "fields": {
+                                  "self": {
+                                    "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/statuscategory/3",
+                                    "kind": "stringValue"
+                                  },
+                                  "colorName": {
+                                    "stringValue": "green",
+                                    "kind": "stringValue"
+                                  },
+                                  "name": {
+                                    "stringValue": "Done",
+                                    "kind": "stringValue"
+                                  },
+                                  "key": {
+                                    "stringValue": "done",
+                                    "kind": "stringValue"
+                                  },
+                                  "id": {
+                                    "numberValue": 3,
+                                    "kind": "numberValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "self": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/status/10009",
+                              "kind": "stringValue"
+                            },
+                            "id": {
+                              "stringValue": "10009",
+                              "kind": "stringValue"
+                            },
+                            "name": {
+                              "stringValue": "Done",
+                              "kind": "stringValue"
+                            },
+                            "iconUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "isLooped": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "isConditional": {
+                        "boolValue": false,
+                        "kind": "boolValue"
+                      },
+                      "id": {
+                        "stringValue": "41",
+                        "kind": "stringValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              ]
+            },
+            "kind": "listValue"
+          },
+          "changelog": {
+            "structValue": {
+              "fields": {
+                "startAt": {
+                  "numberValue": 0,
+                  "kind": "numberValue"
+                },
+                "total": {
+                  "numberValue": 0,
+                  "kind": "numberValue"
+                },
+                "histories": {
+                  "listValue": {
+                    "values": []
+                  },
+                  "kind": "listValue"
+                },
+                "maxResults": {
+                  "numberValue": 0,
+                  "kind": "numberValue"
+                }
+              }
+            },
+            "kind": "structValue"
+          },
+          "votes": {
+            "numberValue": 0,
+            "kind": "numberValue"
+          },
+          "editmeta": {
+            "structValue": {
+              "fields": {
+                "fields": {
+                  "structValue": {
+                    "fields": {
+                      "customfield_10001": {
+                        "structValue": {
+                          "fields": {
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "customId": {
+                                    "numberValue": 10001,
+                                    "kind": "numberValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "team",
+                                    "kind": "stringValue"
+                                  },
+                                  "custom": {
+                                    "stringValue": "com.atlassian.jira.plugin.system.customfieldtypes:atlassian-team",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "name": {
+                              "stringValue": "Team",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "key": {
+                              "stringValue": "customfield_10001",
+                              "kind": "stringValue"
+                            },
+                            "autoCompleteUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/gateway/api/v1/recommendations",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "duedate": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Due date",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "duedate",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "date",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "key": {
+                              "stringValue": "duedate",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "versions": {
+                        "structValue": {
+                          "fields": {
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "versions",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "array",
+                                    "kind": "stringValue"
+                                  },
+                                  "items": {
+                                    "stringValue": "version",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "add",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "remove",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "key": {
+                              "stringValue": "versions",
+                              "kind": "stringValue"
+                            },
+                            "name": {
+                              "stringValue": "Affects versions",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "environment": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Environment",
+                              "kind": "stringValue"
+                            },
+                            "key": {
+                              "stringValue": "environment",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "type": {
+                                    "stringValue": "string",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "environment",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "labels": {
+                        "structValue": {
+                          "fields": {
+                            "autoCompleteUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/1.0/labels/10013/suggest?query=",
+                              "kind": "stringValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "type": {
+                                    "stringValue": "array",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "labels",
+                                    "kind": "stringValue"
+                                  },
+                                  "items": {
+                                    "stringValue": "string",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "name": {
+                              "stringValue": "Labels",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "add",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "remove",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "key": {
+                              "stringValue": "labels",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "summary": {
+                        "structValue": {
+                          "fields": {
+                            "key": {
+                              "stringValue": "summary",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "type": {
+                                    "stringValue": "string",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "summary",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "name": {
+                              "stringValue": "Summary",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "issuelinks": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Linked Issues",
+                              "kind": "stringValue"
+                            },
+                            "key": {
+                              "stringValue": "issuelinks",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "add",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "copy",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "items": {
+                                    "stringValue": "issuelinks",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "array",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "issuelinks",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "autoCompleteUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issue/picker?currentProjectId=&showSubTaskParent=true&showSubTasks=true&currentIssueKey=AIT-3&query=",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "issuetype": {
+                        "structValue": {
+                          "fields": {
+                            "key": {
+                              "stringValue": "issuetype",
+                              "kind": "stringValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "issuetype",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "issuetype",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "allowedValues": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "name": {
+                                          "stringValue": "Improvement",
+                                          "kind": "stringValue"
+                                        },
+                                        "hierarchyLevel": {
+                                          "numberValue": 0,
+                                          "kind": "numberValue"
+                                        },
+                                        "description": {
+                                          "stringValue": "An improvement or enhancement to an existing feature or task.",
+                                          "kind": "stringValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "10009",
+                                          "kind": "stringValue"
+                                        },
+                                        "avatarId": {
+                                          "numberValue": 10310,
+                                          "kind": "numberValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/issuetype/avatar/10310?size=medium",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issuetype/10009",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "avatarId": {
+                                          "numberValue": 10318,
+                                          "kind": "numberValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issuetype/10010",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "Task",
+                                          "kind": "stringValue"
+                                        },
+                                        "hierarchyLevel": {
+                                          "numberValue": 0,
+                                          "kind": "numberValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "10010",
+                                          "kind": "stringValue"
+                                        },
+                                        "description": {
+                                          "stringValue": "A small, distinct piece of work.",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "avatarId": {
+                                          "numberValue": 10311,
+                                          "kind": "numberValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "10012",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "New Feature",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issuetype/10012",
+                                          "kind": "stringValue"
+                                        },
+                                        "hierarchyLevel": {
+                                          "numberValue": 0,
+                                          "kind": "numberValue"
+                                        },
+                                        "description": {
+                                          "stringValue": "A new feature of the product, which has yet to be developed.",
+                                          "kind": "stringValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/issuetype/avatar/10311?size=medium",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issuetype/10013",
+                                          "kind": "stringValue"
+                                        },
+                                        "avatarId": {
+                                          "numberValue": 10303,
+                                          "kind": "numberValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "10013",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "Bug",
+                                          "kind": "stringValue"
+                                        },
+                                        "hierarchyLevel": {
+                                          "numberValue": 0,
+                                          "kind": "numberValue"
+                                        },
+                                        "description": {
+                                          "stringValue": "A problem or error.",
+                                          "kind": "stringValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "description": {
+                                          "stringValue": "A big user story that needs to be broken down. Created by Jira Software - do not edit or delete.",
+                                          "kind": "stringValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://iloh.atlassian.net/images/icons/issuetypes/epic.svg",
+                                          "kind": "stringValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "10000",
+                                          "kind": "stringValue"
+                                        },
+                                        "hierarchyLevel": {
+                                          "numberValue": 1,
+                                          "kind": "numberValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/issuetype/10000",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "Epic",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "name": {
+                              "stringValue": "Issue Type",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "reporter": {
+                        "structValue": {
+                          "fields": {
+                            "key": {
+                              "stringValue": "reporter",
+                              "kind": "stringValue"
+                            },
+                            "autoCompleteUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/user/recommend?context=Reporter&issueKey=AIT-3",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "name": {
+                              "stringValue": "Reporter",
+                              "kind": "stringValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "type": {
+                                    "stringValue": "user",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "reporter",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "parent": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Parent",
+                              "kind": "stringValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "parent",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "issuelink",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "key": {
+                              "stringValue": "parent",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "fixVersions": {
+                        "structValue": {
+                          "fields": {
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "fixVersions",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "array",
+                                    "kind": "stringValue"
+                                  },
+                                  "items": {
+                                    "stringValue": "version",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "key": {
+                              "stringValue": "fixVersions",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "add",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "remove",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "name": {
+                              "stringValue": "Fix versions",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "description": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Description",
+                              "kind": "stringValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "description",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "string",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "key": {
+                              "stringValue": "description",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "assignee": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Assignee",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "type": {
+                                    "stringValue": "user",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "assignee",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "key": {
+                              "stringValue": "assignee",
+                              "kind": "stringValue"
+                            },
+                            "autoCompleteUrl": {
+                              "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/user/assignable/search?issueKey=AIT-3&query=",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "components": {
+                        "structValue": {
+                          "fields": {
+                            "name": {
+                              "stringValue": "Components",
+                              "kind": "stringValue"
+                            },
+                            "operations": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "stringValue": "add",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "set",
+                                    "kind": "stringValue"
+                                  },
+                                  {
+                                    "stringValue": "remove",
+                                    "kind": "stringValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "key": {
+                              "stringValue": "components",
+                              "kind": "stringValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "system": {
+                                    "stringValue": "components",
+                                    "kind": "stringValue"
+                                  },
+                                  "type": {
+                                    "stringValue": "array",
+                                    "kind": "stringValue"
+                                  },
+                                  "items": {
+                                    "stringValue": "component",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      },
+                      "priority": {
+                        "structValue": {
+                          "fields": {
+                            "allowedValues": {
+                              "listValue": {
+                                "values": [
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "id": {
+                                          "stringValue": "1",
+                                          "kind": "stringValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://iloh.atlassian.net/images/icons/priorities/highest_new.svg",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/priority/1",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "Highest",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "iconUrl": {
+                                          "stringValue": "https://iloh.atlassian.net/images/icons/priorities/high_new.svg",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "High",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/priority/2",
+                                          "kind": "stringValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "2",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "iconUrl": {
+                                          "stringValue": "https://iloh.atlassian.net/images/icons/priorities/medium_new.svg",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/priority/3",
+                                          "kind": "stringValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "3",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "Medium",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "name": {
+                                          "stringValue": "Low",
+                                          "kind": "stringValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "4",
+                                          "kind": "stringValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://iloh.atlassian.net/images/icons/priorities/low_new.svg",
+                                          "kind": "stringValue"
+                                        },
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/priority/4",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  },
+                                  {
+                                    "structValue": {
+                                      "fields": {
+                                        "self": {
+                                          "stringValue": "https://api.atlassian.com/ex/jira/79724649-a943-4e76-86f4-0ba500a0bb7d/rest/api/2/priority/5",
+                                          "kind": "stringValue"
+                                        },
+                                        "id": {
+                                          "stringValue": "5",
+                                          "kind": "stringValue"
+                                        },
+                                        "iconUrl": {
+                                          "stringValue": "https://iloh.atlassian.net/images/icons/priorities/lowest_new.svg",
+                                          "kind": "stringValue"
+                                        },
+                                        "name": {
+                                          "stringValue": "Lowest",
+                                          "kind": "stringValue"
+                                        }
+                                      }
+                                    },
+                                    "kind": "structValue"
+                                  }
+                                ]
+                              },
+                              "kind": "listValue"
+                            },
+                            "schema": {
+                              "structValue": {
+                                "fields": {
+                                  "type": {
+                                    "stringValue": "priority",
+                                    "kind": "stringValue"
+                                  },
+                                  "system": {
+                                    "stringValue": "priority",
+                                    "kind": "stringValue"
+                                  }
+                                }
+                              },
+                              "kind": "structValue"
+                            },
+                            "name": {
+                              "stringValue": "Priority",
+                              "kind": "stringValue"
+                            },
+                            "key": {
+                              "stringValue": "priority",
+                              "kind": "stringValue"
+                            }
+                          }
+                        },
+                        "kind": "structValue"
+                      }
+                    }
+                  },
+                  "kind": "structValue"
+                }
+              }
+            },
+            "kind": "structValue"
+          },
+          "title": {
+            "stringValue": "버그 등록 테스트 이슈",
+            "kind": "stringValue"
+          },
+          "key": {
+            "stringValue": "AIT-3",
+            "kind": "stringValue"
+          },
+          "statusCategoryChangeDate": {
+            "stringValue": "2025-04-17T18:29:15+09:00",
+            "kind": "stringValue"
+          }
+        }
+      },
+      "data": "structData"
+    },
+    "chunk": null
+  }
+]
