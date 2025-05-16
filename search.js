@@ -37,7 +37,7 @@ async function search(searchQuery) {
     pageSize: 10,
     query: searchQuery,
     servingConfig: engineName,
-    session: "projects/79005562778/locations/global/collections/default_collection/engines/42dot-enterprise-search_1743568847658/sessions/5977228923869734853"
+    session: "projects/79005562778/locations/global/collections/default_collection/engines/42dot-enterprise-search_1743568847658/sessions/3858654876745957182"
   };
 
   const IResponseParams = {

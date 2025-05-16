@@ -1,23 +1,41 @@
 import axios from 'axios';
+//import childProcess from 'child_process'; // 개발할 때만 가능한 방법
+import { GoogleAuth } from 'google-auth-library'   
 
-import childProcess from 'child_process'; // 개발할 때만 가능한 방법
+// async function getAuthToken() {
+//   return new Promise((resolve, reject) => {
+//     childProcess.exec('gcloud auth print-access-token', (error, stdout, stderr) => {
+//       if (error) {
+//         console.error(`Error: ${error.message}`);
+//         reject(error);
+//         return;
+//       }
+//       if (stderr) {
+//         console.error(`Stderr: ${stderr}`);
+//         reject(new Error(stderr));
+//         return;
+//       }
+//       resolve(stdout.trim());
+//     });
+//   });
+// }
 
 async function getAuthToken() {
-  return new Promise((resolve, reject) => {
-    childProcess.exec('gcloud auth print-access-token', (error, stdout, stderr) => {
-      if (error) {
-        console.error(`Error: ${error.message}`);
-        reject(error);
-        return;
-      }
-      if (stderr) {
-        console.error(`Stderr: ${stderr}`);
-        reject(new Error(stderr));
-        return;
-      }
-      resolve(stdout.trim());
+  try {
+    const auth = new GoogleAuth({
+      scopes: ['https://www.googleapis.com/auth/cloud-platform'], // Specify the required scopes
     });
-  });
+
+    const client = await auth.getClient();
+    const accessToken = await client.getAccessToken();
+
+    // console.log('Access Token:', accessToken.token);
+    return accessToken.token;
+
+  } catch (error) {
+    console.error('Error getting access token:', error);
+    return null;
+  }
 }
 
 async function callApi(url, options = {}) {
